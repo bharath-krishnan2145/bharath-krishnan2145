@@ -15,6 +15,7 @@ I'm an enthusiastic software developer from India, specializing in full stack de
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4479A1?style=flat&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-4479A1?style=flat&logo=angular&logoColor=white)
 ---
 
 ### 🛠️ Tools and Technologies
